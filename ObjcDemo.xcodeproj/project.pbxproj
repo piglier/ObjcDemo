@@ -29,6 +29,7 @@
 		162F377526EDE3CB003476D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		162F377726EDE3CB003476D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		162F377826EDE3CB003476D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		53D5840B26F1E805004CD9E0 /* Baby.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Baby.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +70,7 @@
 				162F376D26EDE3CA003476D4 /* ViewController.m */,
 				162F376F26EDE3CA003476D4 /* Main.storyboard */,
 				162F377226EDE3CB003476D4 /* Assets.xcassets */,
+				53D5840B26F1E805004CD9E0 /* Baby.h */,
 				162F377426EDE3CB003476D4 /* LaunchScreen.storyboard */,
 				162F377726EDE3CB003476D4 /* Info.plist */,
 				162F377826EDE3CB003476D4 /* main.m */,
