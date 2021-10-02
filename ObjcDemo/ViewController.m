@@ -21,7 +21,6 @@
     NSLog(@"a: %d", a);
     Baby *baby1 = [[Baby alloc] init];
     [baby1 eat: @"chicken"];
-    // Do any additional setup after loading the view.
 }
 
 
