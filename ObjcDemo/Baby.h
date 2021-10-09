@@ -21,3 +21,33 @@
     NSLog(@"baby eat: %@", food);
 }
 @end
+
+
+@interface Book: NSObject
+{
+    int price;
+}
+
+
+-(void) setPrice: (int) price;
++(void) printBookInfo;
+
+
+@end
+
+@implementation Book
+
+
+-(int) prcie {
+    return price;
+}
+
+-(void) setPrice:(int)newPrice {
+    price = newPrice;
+}
+
++(void) printBookInfo {
+    NSLog(@"Hello, this is a book");
+}
+
+@end
